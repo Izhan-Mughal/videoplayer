@@ -54,7 +54,7 @@ button:focus-visible {
 
 @media (max-width: 991px) {
   .videojs {
-    width: 90%;
+    width: 100%;
     height: 300px;
   }
 }
