@@ -76,9 +76,8 @@ function App() {
         <a href="mailto:izhanmughal11@gmail.com"> Izhan Mughal </a>
       </h1>
       <div
-        className=""
+        className="videojs"
         style={{
-          width: "60%",
           margin: "auto",
           height: "250px",
           marginBottom: "50px",
